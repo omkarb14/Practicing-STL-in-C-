@@ -20,4 +20,4 @@ int main() {
         for (i = arr.begin(); i < arr.end(); i++)
                 cout << *i << " ";
         return 0;
-}Vector-Erase
+} 
